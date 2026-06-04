@@ -1,2 +1,1 @@
-# .java
-my Java codes
+## These are just files/docs for my personal use
